@@ -1,0 +1,32 @@
+#main {
+    position: absolute;
+    z-index: -1;
+}
+
+body{
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+}
+
+.overlays{
+    position:absolute;
+    z-index: 1;
+    border: 0px;
+    padding: 0px 0x 0px 0px
+}
+
+.overlays2{
+  position:absolute;
+  z-index: 2;
+  border: 0px;
+  padding: 0px 0px 0px 0px
+}
+
+.overlays3{
+  position:absolute;
+  z-index: 3;
+  border: 0px;
+  padding: 0px 0px 0px 0px
+}
